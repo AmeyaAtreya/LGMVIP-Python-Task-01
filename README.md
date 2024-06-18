@@ -6,7 +6,7 @@
 - [**Details**](#details)
 
 ## **Introduction**
-This project is Task 1 of my Python Developer internship at LetsGrowMore. The goal is to create a tool which creates GIF images from videos, using Python. The approach taken for this task is creating a GUI application which fulfills all of the desired functions (e.g. adding files, setting parameters and saving files).
+This project is Task 1 of my Python Developer internship at LetsGrowMore. The goal is to create a tool which creates GIF images from videos, using Python.
 
 ## **Details**
 * **<u>Project Title:</u>** *Create a GIF Creator using Python*
